@@ -1,0 +1,24 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.App div.question > div {
+    font-size: 300%;
+    padding: 1rem;
+}
+
+
+.App div.answer > div {
+    font-size: 300%;
+    padding: 1rem;
+}
+
+.App div.answer > ul {
+    font-size: 250%;
+    padding: 1rem;
+}
