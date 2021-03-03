@@ -1,6 +1,6 @@
 {
-    "name": "amino-acid-quiz",
-    "version": "0.1.0",
+    "name": "agathe-quiz",
+    "version": "1.0.0",
     "private": false,
     "homepage": "./",
     "sideEffects": [
